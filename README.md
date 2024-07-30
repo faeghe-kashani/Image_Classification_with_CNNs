@@ -2,5 +2,7 @@
 The CIFAR-10 dataset
 
 # Optimization-Algorithms
-https://distill.pub/2017/momentum/
+
 https://github.com/jiupinjia/Visualize-Optimization-Algorithms
+
+https://distill.pub/2017/momentum/
